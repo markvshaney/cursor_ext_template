@@ -1,0 +1,1 @@
+node_modules/\ndist/\n*.vsix\n.DS_Store\n.vscode-test/\ncoverage/\n.nyc_output/\nnpm-debug.log\nyarn-debug.log\nyarn-error.log

@@ -1,0 +1,1 @@
+# Cursor Extension\n\nA powerful extension for the Cursor IDE.\n\n## Features\n\n- Hello World command demonstration\n\n## Development\n\n1. Run `npm install`\n2. Open in Cursor\n3. Press F5 to debug\n\n## License\n\nISC License
